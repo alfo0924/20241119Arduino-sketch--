@@ -39,3 +39,5 @@ void loop() {
 - 操作提示音
 - 按鍵回饋音效
 - 設備狀態提示
+
+  # sketch_nov12b.ino
